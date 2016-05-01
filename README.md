@@ -40,4 +40,4 @@ Lägg in dina bilder med följande html-kod:
 
 Klart för att börja använda fnbox.
 
-(fnbox är utvecklad som en del i ett kursmomemt i kursen [javascript](http://dbwebb.se/javascript/))
+(fnbox är utvecklad som en del i ett kursmoment i kursen [javascript](http://dbwebb.se/javascript/))
